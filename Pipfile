@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 django = "*"
+djongo = "*"
+pylint = "*"
+pylint-django = "*"
+pytest = "*"
+pytest-django = "*"
+pytest-mongo = "*"
+django-tailwind = "*"
 
 [dev-packages]
 
