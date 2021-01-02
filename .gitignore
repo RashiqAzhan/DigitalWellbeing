@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+
+# Django project files
+.digital_wellbeing/__pycache__
+.DigitalWellbeing/__pycache__
